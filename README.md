@@ -36,7 +36,7 @@ L'équipe ayant travaillé sur ce projet est composé de ***Martin Bonte***, ***
 ### L'installation de ce programme :
 Ce programme est destiné aux systèmes UNIX. <br>
 Il suffit de cloner le dépositoire (ou répositoire) avec la commande suivante : <br>
-`git clone git@github.com:Antoiix/42sh-mirror.git`
+`git clone git@github.com:YanisMonte/epitech-42sh.git`
 
 ## Comment cela fonctionne ?
 
